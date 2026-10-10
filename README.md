@@ -14,7 +14,13 @@ A simple discord bot using the Discord Library
 
 ## What I learned
 
-This was an easy project, and I learned how to create a discord bot, which is great. It's been so long since the first time I tried to build one; I learned about ```async```, ```ctx```, and ```await```. I'd like to build a more complex bot, but I'll see in the future what I will do.
+This was an easy project, and I learned how to create a discord bot, which is great. It's been so long since the first time I tried to build one; I learned about:
+
+- ```async```: Tells Python that a function is a "coroutine" rather than a regular blocking function.
+- ```await```: Pauses the execution of an ```async``` function until an async operation finishes.
+- ```ctx```: Short for "context." It holds everything related to how the command was invoked
+
+I'd like to build a more complex bot, but I'll see in the future what I will do.
 
 ## Learning Material
 
